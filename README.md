@@ -9,6 +9,7 @@ Final exam for Copenhagen Business School _Machine Learning and Deep Learning (C
 Caoimhe Gallahue _(175890)_: 
 
 [@caoimhegall](https://www.github.com/caoimhegall)
+
 caga24ad@student.cbs.dk
 
 Eirik Sundsøy _(176654)_:
