@@ -8,9 +8,7 @@ Final exam for Copenhagen Business School _Machine Learning and Deep Learning (C
 
 Caoimhe Gallahue _(175890)_: [@caoimhegall](https://www.github.com/caoimhegall), caga24ad@student.cbs.dk
 
-Eirik Sundsøy _(176654)_:
-
-[@eisu24ab](https://www.github.com/eisu24ab)
+Eirik Sundsøy _(176654)_: [@eisu24ab](https://www.github.com/eisu24ab), eisu24ab@student.cbs.dk
 
 ______________________________________________________________________________________________
 ## Montgomery County Crash Reporting Data :rotating_light:
