@@ -3,6 +3,11 @@ May 16, 2025
 
 Final exam for Copenhagen Business School _Machine Learning and Deep Learning (CDSCO2004E)_.
 
+| Name        | Github        | Student Number    |
+| ------------- |:-------------:| ---------:|
+| Caoimhe Gallahue         | [@caoimhegall](https://www.github.com/caoimhegall)         |     _(175890)_ |
+
+
 [@caoimhegall](https://www.github.com/caoimhegall) Caoimhe Gallahue _(175890)_
 
 [@eisu24ab](https://www.github.com/eisu24ab) Eirik Sundsøy _(176654)_
