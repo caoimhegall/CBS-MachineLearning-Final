@@ -1,7 +1,5 @@
 # Machine Learning and Deep Learning - Final Exam
-**May 16, 2025**
-
-Final exam for Copenhagen Business School _Machine Learning and Deep Learning (CDSCO2004E)_.
+**May 16, 2025** | Final exam for Copenhagen Business School _Machine Learning and Deep Learning (CDSCO2004E)_.
 
 #### Students:
 - Caoimhe Gallahue [@caoimhegall](https://www.github.com/caoimhegall): _(175890)_
@@ -23,6 +21,7 @@ Download the raw scraped data from data.gov [here](https://catalog.data.gov/data
 
 ### Notebooks:
 [`ML Final Discovery.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final%20Discovery.ipynb) - Where we did all the data cleaning and EDA. 
+
 [`ML Final.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final.ipynb) - The modeling of the cleaned data
 
 > [!NOTE] 
