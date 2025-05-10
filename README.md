@@ -19,14 +19,12 @@ For our project, we explored crash data from Montgomery County, Maryland. This d
 This project aims to develop a machine learning model that predicts the severity of injuries in traffic crashes based on initial input features from ACRS Maryland State Police Department reports. By providing a data-driven injury severity estimate, the model can support law enforcement in real-time crash reporting, improve consistency across entries, and assist in early triage decisions for emergency response.
 ______________________________________________________________________________________________
 ### Data:
-Download the raw data [here](https://catalog.data.gov/dataset/crash-reporting-drivers-data). Or see the [`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv) raw file.
+Download the raw scraped data from data.gov [here](https://catalog.data.gov/dataset/crash-reporting-drivers-data). Or download the [`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv) raw file.
 
 ### Notebooks:
 [`ML Final Discovery.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final%20Discovery.ipynb) - Where we did all the data cleaning and EDA. 
-
-> [!NOTE] 
-> Running this file will create a cleaned dataframe `processed_data.csv` that we use for modeling.
-
 [`ML Final.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final.ipynb) - The modeling of the cleaned data
 
+> [!NOTE] 
+> Running `ML Final Discovery.ipynb` file will create a cleaned dataframe [`processed_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/processed_data.csv) that we use for modeling.
 ______________________________________________________________________________________________
