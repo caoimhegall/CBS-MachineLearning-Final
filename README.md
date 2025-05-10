@@ -8,6 +8,7 @@ Final exam for Copenhagen Business School _Machine Learning and Deep Learning (C
 Somnath Mazumdar
 
 **Students:**
+
 Caoimhe Gallahue [@caoimhegall](https://www.github.com/caoimhegall): _(175890)_
 
 Eirik Sundsøy [@eisu24ab](https://www.github.com/eisu24ab): _(176654)_
@@ -41,7 +42,8 @@ ________________________________________________________________________________
 1. Download the cleaned data [`processed_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/processed_data.csv)
 2. Download the modeling Notebook [`ML Final.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final.ipynb)
 3. Change the import to match your path for `processed_data.csv`
-   `df = pd.read_csv('\CHANGE TO YOUR PATH')`
+
+   ```df = pd.read_csv('\CHANGE TO YOUR PATH')```
 5. Run in your IDE of choice
 
 See the [Google Colab](https://colab.research.google.com/drive/1eoh7xT6KE-tnHjSp4Ycx-QoC7KNQtCwy?usp=sharing) version
