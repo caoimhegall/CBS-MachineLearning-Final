@@ -3,11 +3,11 @@
 
 Final exam for Copenhagen Business School _Machine Learning and Deep Learning (CDSCO2004E)_ Spring 2025.
 
-**Examiners:**
+### Examiners:
 
 Somnath Mazumdar
 
-**Students:**
+### Students:
 
 Caoimhe Gallahue [@caoimhegall](https://www.github.com/caoimhegall): _(175890)_
 
@@ -29,6 +29,7 @@ Download the raw scraped data from data.gov [here](https://catalog.data.gov/data
 
 Download the [`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv) raw file.
 
+______________________________________________________________________________________________
 ### Notebooks:
 [`ML Final Discovery.ipynb`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/src/ML%20Final%20Discovery.ipynb): Data cleaning and EDA. 
 
