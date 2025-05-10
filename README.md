@@ -3,15 +3,17 @@
 
 Final exam for Copenhagen Business School _Machine Learning and Deep Learning (CDSCO2004E)_ Spring 2025.
 
-### Examiners:
-
-Somnath Mazumdar
 
 ### Students:
 
-Caoimhe Gallahue [@caoimhegall](https://www.github.com/caoimhegall): _(175890)_
+Caoimhe Gallahue _(175890)_: 
 
-Eirik Sundsøy [@eisu24ab](https://www.github.com/eisu24ab): _(176654)_
+[@caoimhegall](https://www.github.com/caoimhegall)
+caga24ad@student.cbs.dk
+
+Eirik Sundsøy _(176654)_:
+
+[@eisu24ab](https://www.github.com/eisu24ab)
 
 ______________________________________________________________________________________________
 ## Montgomery County Crash Reporting Data :rotating_light:
