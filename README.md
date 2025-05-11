@@ -57,5 +57,4 @@ ________________________________________________________________________________
 - [XGBoost Classifier](https://cloud.google.com/python/docs/reference/bigframes/latest/bigframes.ml.ensemble.XGBClassifier) (eXtreme Gradient Boosting)
 - [MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) (Multi-layer Perceptron)
 
-______________________________________________________________________________________________
 
