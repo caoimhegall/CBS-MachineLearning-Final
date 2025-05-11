@@ -28,7 +28,8 @@ ________________________________________________________________________________
 ### Data:
 Download the raw scraped data from data.gov [here](https://catalog.data.gov/dataset/crash-reporting-drivers-data). 
 
-Download the [`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv) raw file.
+[`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv): The raw file downloaded on April 23, 2025.
+[`processed_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/processed_data.csv): The crash data after processing and EDA.
 
 ______________________________________________________________________________________________
 ### Notebooks:
@@ -50,9 +51,11 @@ ________________________________________________________________________________
 
 See the [Google Colab](https://colab.research.google.com/drive/1eoh7xT6KE-tnHjSp4Ycx-QoC7KNQtCwy?usp=sharing) version
 ______________________________________________________________________________________________
-### Machine Learning Models
-- Baseline: Logistic Regression
-- Random Forest
-- XGBoost (eXtreme Gradient Boosting)
-- MLPClassifier (Multi-layer Perceptron)
+### Machine Learning Models Utilized
+- Baseline: [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [Random Forest Classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [XGBoost Classifier](https://cloud.google.com/python/docs/reference/bigframes/latest/bigframes.ml.ensemble.XGBClassifier) (eXtreme Gradient Boosting)
+- [MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) (Multi-layer Perceptron)
+
+______________________________________________________________________________________________
 
