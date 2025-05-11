@@ -22,9 +22,8 @@ For our project, we explored crash data from Montgomery County, Maryland. This d
 This project aims to develop a machine learning model that predicts the severity of injuries in traffic crashes based on initial input features from ACRS Maryland State Police Department reports. By providing a data-driven injury severity estimate, the model can support law enforcement in real-time crash reporting, improve consistency across entries, and assist in early triage decisions for emergency response.
 
 ### Research Questions
-_Can machine learning models accurately predict crash severity in Montgomery County using ACRS data?_
-
-_How do tree-based models compare to a Multi-Layer Perceptron in performance?_
+- _Can machine learning models accurately predict crash severity in Montgomery County using ACRS data?_
+- _How do tree-based models compare to a Multi-Layer Perceptron in performance?_
 ______________________________________________________________________________________________
 ### Data:
 Download the raw scraped data from data.gov [here](https://catalog.data.gov/dataset/crash-reporting-drivers-data). 
@@ -50,3 +49,10 @@ ________________________________________________________________________________
 5. Run in your IDE of choice
 
 See the [Google Colab](https://colab.research.google.com/drive/1eoh7xT6KE-tnHjSp4Ycx-QoC7KNQtCwy?usp=sharing) version
+______________________________________________________________________________________________
+### Machine Learning Models
+- Baseline: Logistic Regression
+- Random Forest
+- XGBoost (eXtreme Gradient Boosting)
+- MLPClassifier (Multi-layer Perceptron)
+
