@@ -52,8 +52,8 @@ ________________________________________________________________________________
 See the [Google Colab](https://colab.research.google.com/drive/1eoh7xT6KE-tnHjSp4Ycx-QoC7KNQtCwy?usp=sharing) version
 ______________________________________________________________________________________________
 ### Machine Learning Models Utilized
-- Baseline: [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- [Random Forest Classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- **Baseline:** [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 - [XGBoost Classifier](https://cloud.google.com/python/docs/reference/bigframes/latest/bigframes.ml.ensemble.XGBClassifier) (eXtreme Gradient Boosting)
 - [MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) (Multi-layer Perceptron)
 
