@@ -29,7 +29,8 @@ ________________________________________________________________________________
 Download the raw scraped data from data.gov [here](https://catalog.data.gov/dataset/crash-reporting-drivers-data). 
 
 [`Crash_Reporting_-_Drivers_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/Crash_Reporting_-_Drivers_Data.csv): The raw file downloaded on April 23, 2025.
-[`processed_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/processed_data.csv): The crash data after processing and EDA.
+
+[`processed_data.csv`](https://github.com/caoimhegall/CBS-MachineLearning-Final/blob/main/data/processed_data.csv): The crash dataframe after preprocessing and EDA.
 
 ______________________________________________________________________________________________
 ### Notebooks:
